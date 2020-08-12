@@ -20,45 +20,38 @@ namespace EchoServer
 
             Socket listener = new Socket(iPAddress.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
 
-            try{
-                listener.Bind(localEndPoint);
-                listener.Listen(1);
+            
+            listener.Bind(localEndPoint);
+            listener.Listen(1);
 
+            while (true) 
+            {  
+                Console.WriteLine("Waiting for a connection...");  
+                    
+                Socket handler = listener.Accept();  
+                data = null;  
+
+                
                 while (true) {  
-                    Console.WriteLine("Waiting for a connection...");  
-                     
-                    Socket handler = listener.Accept();  
-                    data = null;  
-    
-                 
-                    while (true) {  
-                        int bytesRec = handler.Receive(bytes);  
-                        data += Encoding.ASCII.GetString(bytes,0,bytesRec);  
-                        if (data != null) {  
-                            break;  
-                        }  
+                    int bytesRec = handler.Receive(bytes);  
+                    data += Encoding.ASCII.GetString(bytes,0,bytesRec);  
+                    if (data != null) {  
+                        break;  
                     }  
-    
-                    
-                    Console.WriteLine( "Text received : {0}", data);  
-    
-                    
-                    byte[] msg = Encoding.ASCII.GetBytes(data);  
-    
-                    handler.Send(msg);  
-                    handler.Shutdown(SocketShutdown.Both);  
-                    handler.Close();  
                 }  
-    
-            } catch (Exception e) {  
-                Console.WriteLine(e.ToString());  
+
+                
+                Console.WriteLine( "Text received : {0}", data);  
+
+                
+                byte[] msg = Encoding.ASCII.GetBytes(data);  
+
+                handler.Send(msg);  
+                handler.Shutdown(SocketShutdown.Both);  
+                handler.Close();  
             }  
     
-            Console.WriteLine("\nPress ENTER to continue...");  
-            Console.Read();  
-    
       
-        
         }
     }
 }

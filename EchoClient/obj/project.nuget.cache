@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dKWL3O0uYYeaJeO3rG4a7lU7cJRjfD8BB43Ylq7NqpT8tvIJ4zN3cC4A5KYoQM+xkR5h63yR8ZBw9qXgV5rQOw==",
+  "dgSpecHash": "Olln3vauKPHFlAcYJehracpwPmEpEgwuW/TWtxto82XyEFM1a44FRKAOepopTmUG0PsydvD9mK8eOmZtm55/6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Desarrollo web\\EchoClient\\EchoClient.csproj",
+  "projectFilePath": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Desarrollo web\\Echo\\EchoClient\\EchoClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

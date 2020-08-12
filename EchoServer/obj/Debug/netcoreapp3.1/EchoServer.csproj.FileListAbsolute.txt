@@ -11,3 +11,16 @@ C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\EchoServer\obj\Debug\netc
 C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.dll
 C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
 C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.exe
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.deps.json
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.json
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.dev.json
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\bin\Debug\netcoreapp3.1\EchoServer.pdb
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csprojAssemblyReference.cache
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfoInputs.cache
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfo.cs
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.dll
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
+C:\Users\dejim\OneDrive\Documents\INTEC\Desarrollo web\Echo\EchoServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache

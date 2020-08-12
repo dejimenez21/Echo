@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Desarrollo web\\EchoServer\\EchoServer.csproj",
+      "projectUniqueName": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Desarrollo web\\Echo\\EchoServer\\EchoServer.csproj",
       "projectName": "EchoServer",
-      "projectPath": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Desarrollo web\\EchoServer\\EchoServer.csproj",
+      "projectPath": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Desarrollo web\\Echo\\EchoServer\\EchoServer.csproj",
       "packagesPath": "C:\\Users\\dejim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Desarrollo web\\EchoServer\\obj\\",
+      "outputPath": "C:\\Users\\dejim\\OneDrive\\Documents\\INTEC\\Desarrollo web\\Echo\\EchoServer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dejim\\AppData\\Roaming\\NuGet\\NuGet.Config",
